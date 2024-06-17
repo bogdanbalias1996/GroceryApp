@@ -1,0 +1,21 @@
+current directory: /Users/bogdanbalias/Projects/GroceryListApp/vendor/bundle/ruby/3.2.0/gems/strscan-3.1.0/ext/strscan
+/Users/bogdanbalias/.rvm/rubies/ruby-3.2.1/bin/ruby -I /Users/bogdanbalias/.rvm/rubies/ruby-3.2.1/lib/ruby/3.2.0 extconf.rb
+checking for onig_region_memsize() in ruby.h... yes
+checking for rb_reg_onig_match() in ruby.h... no
+creating Makefile
+
+current directory: /Users/bogdanbalias/Projects/GroceryListApp/vendor/bundle/ruby/3.2.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240614-85927-8fxlr1 sitelibdir\=./.gem.20240614-85927-8fxlr1 clean
+
+current directory: /Users/bogdanbalias/Projects/GroceryListApp/vendor/bundle/ruby/3.2.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240614-85927-8fxlr1 sitelibdir\=./.gem.20240614-85927-8fxlr1
+compiling strscan.c
+linking shared-object strscan.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/bogdanbalias/Projects/GroceryListApp/vendor/bundle/ruby/3.2.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240614-85927-8fxlr1 sitelibdir\=./.gem.20240614-85927-8fxlr1 install
+/opt/homebrew/opt/coreutils/bin/ginstall -c -m 0755 strscan.bundle ./.gem.20240614-85927-8fxlr1
+
+current directory: /Users/bogdanbalias/Projects/GroceryListApp/vendor/bundle/ruby/3.2.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240614-85927-8fxlr1 sitelibdir\=./.gem.20240614-85927-8fxlr1 clean

@@ -1,0 +1,16 @@
+current directory: /Users/bogdanbalias/Projects/GroceryListApp/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+/Users/bogdanbalias/.rvm/rubies/ruby-3.2.1/bin/ruby -I /Users/bogdanbalias/.rvm/rubies/ruby-3.2.1/lib/ruby/3.2.0 extconf.rb
+creating Makefile
+
+current directory: /Users/bogdanbalias/Projects/GroceryListApp/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240614-85927-w4jrpk sitelibdir\=./.gem.20240614-85927-w4jrpk clean
+
+current directory: /Users/bogdanbalias/Projects/GroceryListApp/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240614-85927-w4jrpk sitelibdir\=./.gem.20240614-85927-w4jrpk
+make: Nothing to be done for `all'.
+
+current directory: /Users/bogdanbalias/Projects/GroceryListApp/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240614-85927-w4jrpk sitelibdir\=./.gem.20240614-85927-w4jrpk install
+
+current directory: /Users/bogdanbalias/Projects/GroceryListApp/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240614-85927-w4jrpk sitelibdir\=./.gem.20240614-85927-w4jrpk clean

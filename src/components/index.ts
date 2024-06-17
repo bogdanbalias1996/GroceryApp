@@ -1,0 +1,1 @@
+export {GroceryCard} from './GroceryCard';

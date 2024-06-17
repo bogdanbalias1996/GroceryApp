@@ -1,0 +1,22 @@
+{
+  "groceryList": [
+    {
+      "id": 1,
+      "name": "Apples",
+      "amount": 5,
+      "bought": false
+    },
+    {
+      "name": "Eggs",
+      "amount": 4,
+      "bought": false,
+      "id": 3
+    },
+    {
+      "name": "Water123w43",
+      "amount": 1,
+      "bought": false,
+      "id": 4
+    }
+  ]
+}
